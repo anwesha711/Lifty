@@ -42,3 +42,5 @@ Show basic ride and driver data in frontend.
 7. Live Data Streaming (Advanced)
 Use Kafka for live location or notification streaming.
 Redis for quick state access (recent rides, drivers nearby).
+
+8. Add JWT and other Security measures. Add Payment method like Stripe.
